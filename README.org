@@ -4,6 +4,6 @@ A library for the Linux SPIDEV kernel module as used on hobby kits such as the R
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/Shinmera/cl-spidev.git |
-| commit  | 94b39da                                       |
+| commit  | 7317e30                                       |
 | systems | cl-spidev                                     |
 |---------+-----------------------------------------------|
