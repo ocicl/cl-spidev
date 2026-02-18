@@ -3,7 +3,7 @@
 A library for the Linux SPIDEV kernel module as used on hobby kits such as the Raspberry Pi
 
 |---------+-----------------------------------------------|
-| source  | git:https://github.com/Shinmera/cl-spidev.git |
-| commit  | 46dcc64                                       |
+| source  | git:https://codeberg.org/shinmera/cl-spidev.git |
+| commit  | 0000000                                       |
 | systems | cl-spidev                                     |
 |---------+-----------------------------------------------|
